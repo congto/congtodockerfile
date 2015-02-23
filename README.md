@@ -1,4 +1,4 @@
-# Bài tập về fiel docker
+# Bài tập về  Dockerfile
 
 Thực thi như sau
 ```sh
