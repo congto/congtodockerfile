@@ -1,5 +1,4 @@
 # Bài tập về fiel docker
-Hoc ve docker !
 
 Thực thi như sau
 ```sh
